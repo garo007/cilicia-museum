@@ -1,0 +1,27 @@
+{
+  "home": "Home",
+  "about": "About Us",
+  "history": "History",
+  "gallery": "Gallery",
+  "event": "Events",
+  "events": {
+    "building": {
+      "title": "Ancient building structures",
+      "body": "The architectural culture of the Armenian people, created on the territory of the entire territory of Armenia",
+      "date": "May 10, 2022 - May 10, 2023",
+      "date-when": "every",
+      "date-day": "monday"
+    },
+    "coin": {
+      "title": "Cilician Coins",
+      "body": "The Rubenids issued coins influenced by crusader-era illustrations but with Armenian inscriptions",
+      "date": "Mar 20, 2022 - Jun 10, 2024",
+      "date-when": "every",
+      "date-day": "tuesday"
+    }
+  },
+  "about_history_part_1": "Armenia, located in the North of Asia, is a country with a rich history. It was the first country to adopt Christianity as a state religion. Capital of Armenia - Yerevan is older than Rome for 29 years. According to the Holy Bible, Noah’s Ark has landed here, on the highest top of Armenian highland - Mount Ararat. Centuries ago, Armenia, named “From sea to sea,” was expanding from the Mediterranean Sea to the Black and Caspian seas. In the history of Armenia and the region, Cilicia has played a vital role. The incredible history of the latter became an inspiration for creating the mood reel trilogy.",
+  "about_history_part_2": "Cilicia, situated in Western Asia, the Middle East, was extending along the Northeast coast of the Mediterranean Sea. From other lands located to the North, Cilicia is pierced by narrow gorges, the most famous of which in antiquity was called the Cilician Gates. Vast area was mainly populated by Armenians. Till these days the area of former Cilicia is considered to be a prosperous land. It was the second state established by Armenians while collateral to the first one: a remarkable fact in the history of humanity. Currently, Cilicia is located in the district of Turkey - Adana, Mersin and Osmaniye provinces.",
+  "about_history_part_3": "After years and number of battles, the Princedom of Cilicia was liberated from Byzantine rule. In the late 12th century, Cilicia was proclaimed as a Kingdom and lasted until year 1375. During its three-century turbulent history, it was reigned by the three dynasties - Rubenids, Hetoumids and Lusignans. Nine princes and seventeen kings and queens have stood through numerous invasions and have left their mark in the Middle Age history.",
+  "about_history_part_4": "Cilicia reel  presents a crucially important period not only in Armenian but also in the International history, as Cilicia was an international hub, played a significant role in the political situation of that period and economic development of the district."
+}
